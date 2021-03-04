@@ -1,0 +1,13 @@
+F:\11jos\RayRepos\W5\Playing Dice\bin\Debug\netcoreapp3.1\Playing Dice.exe
+F:\11jos\RayRepos\W5\Playing Dice\bin\Debug\netcoreapp3.1\Playing Dice.deps.json
+F:\11jos\RayRepos\W5\Playing Dice\bin\Debug\netcoreapp3.1\Playing Dice.runtimeconfig.json
+F:\11jos\RayRepos\W5\Playing Dice\bin\Debug\netcoreapp3.1\Playing Dice.runtimeconfig.dev.json
+F:\11jos\RayRepos\W5\Playing Dice\bin\Debug\netcoreapp3.1\Playing Dice.dll
+F:\11jos\RayRepos\W5\Playing Dice\bin\Debug\netcoreapp3.1\Playing Dice.pdb
+F:\11jos\RayRepos\W5\Playing Dice\obj\Debug\netcoreapp3.1\Playing Dice.AssemblyInfoInputs.cache
+F:\11jos\RayRepos\W5\Playing Dice\obj\Debug\netcoreapp3.1\Playing Dice.AssemblyInfo.cs
+F:\11jos\RayRepos\W5\Playing Dice\obj\Debug\netcoreapp3.1\Playing Dice.csproj.CoreCompileInputs.cache
+F:\11jos\RayRepos\W5\Playing Dice\obj\Debug\netcoreapp3.1\Playing Dice.dll
+F:\11jos\RayRepos\W5\Playing Dice\obj\Debug\netcoreapp3.1\Playing Dice.pdb
+F:\11jos\RayRepos\W5\Playing Dice\obj\Debug\netcoreapp3.1\Playing Dice.genruntimeconfig.cache
+F:\11jos\RayRepos\W5\Playing Dice\obj\Debug\netcoreapp3.1\Playing Dice.csprojAssemblyReference.cache
